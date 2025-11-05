@@ -19,3 +19,5 @@ To ensure our community members get credit and for easier maintenance, all mount
 | Focus tool | Enclosure Camera | N/A | Dennis Jespersen| [3DO Enclosure CAM focus adjuster](https://www.printables.com/model/945044-3do-enclosure-cam-focus-adjuster) |
 | VzBot | Nozzle Camera Glued | 10cm LED | Kenneth Sørensen| [VzBot WaterCooled 3DO cam duct + mount](https://www.printables.com/model/923972-vzbot-watercooled-3do-cam-duct-mount) |
 | Prusa MK4/MK4S | Nozzle Camera Glued | 5cm LED | Michael | [Nozzle Cam Mount Prusa MK4/MK4S for 3DO Nozzle Cam V2](https://www.printables.com/model/1077259-nozzle-cam-mount-prusa-mk4mk4s-for-3do-nozzle-cam) |
+| Prusa Core One | Nozzle Camera Glued | 25cm LED | Julia Rose | [3DO nozzle camera mount for Prusa Core One - 25cm FPC with LEDs](https://www.printables.com/model/1469543-core-one-3do-nozzle-camera-mount-25cm-fpc-with-led) |
+| Prusa Core One | Nozzle Camera Glued | 5cm LED | Julia Rose | [3DO nozzle camera mount for Prusa Core One - 5cm FPC with LEDs](https://www.printables.com/model/1452709-3do-nozzle-camera-mount-for-prusa-core-one) |
