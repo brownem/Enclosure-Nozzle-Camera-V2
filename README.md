@@ -8,7 +8,6 @@ Introducing the 3DO Enclosure & Nozzle Camera V2, a modular camera system design
 ## Repository Folders
 - **Design Files**: Contains CAD files and tolerances of the camera for mount designing.
 - **Printers**: Various mounts for different printers.
-- **Firmware**: Tools to update camera firmware.
 
 
 ## Key Features
