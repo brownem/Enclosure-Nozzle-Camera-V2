@@ -11,6 +11,7 @@ To ensure our community members get credit and for easier maintenance, all mount
 | Printer                  | Camera Type         | FPC Type           | Designer     | Printables Link                                                                                  |
 |--------------------------|---------------------|--------------------|--------------|--------------------------------------------------------------------------------------------------|
 | Voron 2.4 Stealth Burner | Nozzle Camera Glued | 25cm LED & No LED  | Olof Ogland  | [3DO Nozzle camera V2 for Stealthburner](https://www.printables.com/model/911230-3do-nozzle-camera-for-stealthburner) |
+| Voron 2.4 Stealth Burner 3DO Nozzle Camera V2 - Simplified Ribbon Cable Path | Nozzle Camera Glued | 25cm No LED | Michael Browne | [Stealth Burner 3DO Nozzle Camera V2 - Simplified Ribbon Cable Path](https://www.printables.com/model/1692558-stealth-burner-3do-nozzle-camera-v2-simplified-rib)
 | Voron 2.4 Stealth Burner | Nozzle Camera Glued | 25cm LED  | Adam Naguszewski  | [Stealthburner Knomi V2 3do V2 UHF LED](https://makerworld.com/en/models/650758#profileId-577381) |
 | Voron 2.4 | Enclosure Camera | 5cm | Jochen Ullrich | [3DO Enclosure Cam v2 for Voron 2 Corner Mount](https://www.printables.com/model/961720-3do-enclosure-cam-v2-for-voron-2-corner-mount) |
 | VzBot | Nozzle Camera Glued | 5cm LED | Jochen Ullrich | [3DO Nozzle Camera V2 for VzBot](https://www.printables.com/model/915664-3do-nozzle-camera-v2-for-vzbot) |
